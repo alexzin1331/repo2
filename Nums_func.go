@@ -1,4 +1,4 @@
-package repo2
+package main
 
 func Nums(a int) int{
   s:= 0
